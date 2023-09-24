@@ -9,5 +9,5 @@ Skills: JavaScript, Java, Python, TypeScript, HTML, CSS, Lua, C++ and C#.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AvesonThyBot&theme=darcula&layout=donut" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvesonThyBot"/>
+  <img height=400 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvesonThyBot"/>
 </a>
