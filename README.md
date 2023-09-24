@@ -12,3 +12,7 @@ Skills: JavaScript, Java, Python, TypeScript, HTML, CSS, Lua, C++ and C#.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=400 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvesonThyBot"/>
 </a>
+
+### Spotify Playing 🎧
+
+[<img src="https://<novatorem-lime-kappa.vercel.app>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
