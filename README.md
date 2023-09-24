@@ -13,6 +13,7 @@ Skills: JavaScript, Java, Python, TypeScript, HTML, CSS, Lua, C++ and C#.
   <img height=400 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvesonThyBot"/>
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AvesonThyBot&theme=dark)](https://git.io/streak-stats)
 
 <!-- ### Spotify Playing 🎧
 [![Spotify](https://novatorem-gjctt6jhr-avesonthybot.vercel.app/api/spotify)](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2) --!>
