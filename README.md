@@ -15,4 +15,4 @@ Skills: JavaScript, Java, Python, TypeScript, HTML, CSS, Lua, C++ and C#.
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-lime-kappa.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2)
+[<img src="novatorem-lime-kappa.vercel.app" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2)
