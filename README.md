@@ -38,6 +38,9 @@ I thrive on the challenge of mastering new programming languages and possess a p
 
 <img src="https://github-readme-stats.vercel.app/api?username=AvesonThyBot&theme=darcula&layout=donut&rank_icon=github" style="vertical-align: top;"> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvesonThyBot)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
+<!-- Contribution snake -->
+
+![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Contacts -->
 <hr>
@@ -51,10 +54,6 @@ I thrive on the challenge of mastering new programming languages and possess a p
 
 <!-- ### Spotify Playing 🎧
 [![Spotify](https://novatorem-gjctt6jhr-avesonthybot.vercel.app/api/spotify)](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2) !-->
-
-<!-- Contribution snake -->
-
-![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg)
 
 
 
