@@ -1,6 +1,6 @@
 <!-- View count -->
 <img align="right" src="https://VISITOR-badge.laobi.icu/badge?page_id=AvesonThyBot" />
-#Hi, I'm Aveson 👋
+<h1 align="center">Hi 👋, I'm Aveson</h1>
 
 I'm a **passionate student** deeply interested in the realms of **computer science** and **computer engineering**. My journey in the world of technology is marked by a _thirst for knowledge_ and a dedication to _innovation_.
 
@@ -40,7 +40,7 @@ I thrive on the challenge of mastering new programming languages and possess a p
 <hr>
 <!-- Contribution snake -->
 
-![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- Contacts -->
 <hr>
@@ -53,7 +53,7 @@ I thrive on the challenge of mastering new programming languages and possess a p
 | <div style="text-align: center;"><a href="https://discordapp.com/channels/@me" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a></div> | **GitHub:** @Aveson |
 
 <!-- ### Spotify Playing 🎧
-[![Spotify](https://novatorem-gjctt6jhr-avesonthybot.vercel.app/api/spotify)](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2) !-->
+[![Spotify](https://novatorem-gjctt6jhr-avesonthybot.vercel.app/api/spotify)](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2) -->
 
 
 
