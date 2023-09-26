@@ -1,5 +1,6 @@
 <!-- View count -->
 <img align="right" src="https://VISITOR-badge.laobi.icu/badge?page_id=AvesonThyBot" />
+<!-- Profile intro -->
 <h1 align="center">Hi 👋, I'm Aveson</h1>
 
 I'm a **passionate student** deeply interested in the realms of **computer science** and **computer engineering**. My journey in the world of technology is marked by a _thirst for knowledge_ and a dedication to _innovation_.
@@ -9,8 +10,10 @@ I thrive on the challenge of mastering new programming languages and possess a p
 <!-- Skills -->
 <hr>
 <h1 align="center">Skills</h1>
+
+# [Skills](#skills-section)
 <hr>
-<div align="center">
+<div align="center" id="skills-section">
     <h3>Applications</h3>
     <img src="https://skillicons.dev/icons?i=github,vscode,discord,blender,ps,unity,ae,replit" />
     <br>
@@ -50,6 +53,5 @@ I thrive on the challenge of mastering new programming languages and possess a p
 
 <!-- ### Spotify Playing 🎧
 [![Spotify](https://novatorem-gjctt6jhr-avesonthybot.vercel.app/api/spotify)](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2) -->
-
 
 
