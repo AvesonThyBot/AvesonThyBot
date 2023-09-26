@@ -10,10 +10,8 @@ I thrive on the challenge of mastering new programming languages and possess a p
 <!-- Skills -->
 <hr>
 <h1 align="center">Skills</h1>
-
-# [Skills](#skills-section)
 <hr>
-<div align="center" id="skills-section">
+<div align="center">
     <h3>Applications</h3>
     <img src="https://skillicons.dev/icons?i=github,vscode,discord,blender,ps,unity,ae,replit" />
     <br>
