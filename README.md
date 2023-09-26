@@ -40,7 +40,7 @@ I thrive on the challenge of mastering new programming languages and possess a p
 <hr>
 <!-- Contribution snake -->
 
-![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Contacts -->
 <hr>
