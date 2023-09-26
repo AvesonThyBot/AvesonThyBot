@@ -15,17 +15,13 @@ I thrive on the challenge of mastering new programming languages and possess a p
     <img src="https://skillicons.dev/icons?i=github,vscode,discord,blender,ps,unity,ae,replit" />
     <br>
     <p>I excel in various applications, from coding in Visual Studio Code to creating graphical interface in Adobe Photoshop.</p>
-    <br>
     <h3>Programming Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,cs,cpp,lua,js,ts,java" />
-    <br>
-    <p>Proficient in a variety of programming languages.</p>
     <br>
     <h3>Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <br>
     <p>Experience with the Bootstrap framework for responsive web design.</p>
-    <br>
     <h3>Web Development</h3>
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
     <br>
