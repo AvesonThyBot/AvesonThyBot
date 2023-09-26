@@ -43,7 +43,7 @@ I thrive on the challenge of mastering new programming languages and possess a p
 <!-- ![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- Contacts -->
-<hr>
+
 <h1 align="center">Contacts</h1>
 <hr>
 
