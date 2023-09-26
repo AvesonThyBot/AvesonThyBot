@@ -47,7 +47,7 @@ I thrive on the challenge of mastering new programming languages and possess a p
 | Contact Me                  | Social Media                |
 | ---------------------------- | --------------------------- |
 | <div style="text-align: center;"><a href="https://www.instagram.com/aveson.14/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a></div> | **Instagram:** @Aveson.14 |
-| <div style="text-align: center;"><a href="https://discordapp.com/channels/@me" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a></div> | **GitHub:** @Aveson |
+| <div style="text-align: center;"><a href="https://discordapp.com/channels/@me" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a></div> | **Discord:** @Aveson |
 
 <!-- ### Spotify Playing 🎧
 [![Spotify](https://novatorem-gjctt6jhr-avesonthybot.vercel.app/api/spotify)](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2) -->
