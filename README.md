@@ -1,9 +1,11 @@
 <!-- View count -->
 <img align="right" src="https://VISITOR-badge.laobi.icu/badge?page_id=AvesonThyBot" />
-<!-- Intro -->
-<h1>Hi, I'm Aveson 👋</h1>
-<p>I'm a <strong>passionate student</strong> deeply interested in the realms of <strong>computer science</strong> and <strong>computer engineering</strong>. My journey in the world of technology is marked by a <em>thirst for knowledge</em> and a dedication to <em>innovation</em>.</p>
-<p>I thrive on the challenge of mastering new programming languages and possess a profound fascination with <strong>hardware architecture</strong> and the art of building computers. While I'm at the beginning of my exciting journey into web development, I already boast an <em>intermediate-level experience</em> and understanding in a variety of programming languages.</p>
+#Hi, I'm Aveson 👋
+
+I'm a **passionate student** deeply interested in the realms of **computer science** and **computer engineering**. My journey in the world of technology is marked by a _thirst for knowledge_ and a dedication to _innovation_.
+
+I thrive on the challenge of mastering new programming languages and possess a profound fascination with **hardware architecture** and the art of building computers. While I'm at the beginning of my exciting journey into web development, I already boast an _intermediate-level experience_ and understanding in a variety of programming languages.
+
 <!-- Skills -->
 <hr>
 <h1 align="center">Skills</h1>
