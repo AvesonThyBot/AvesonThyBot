@@ -77,7 +77,7 @@ I thrive on the challenge of mastering new programming languages and possess a p
   <tr>
     <td><strong>Instagram:</strong> @_Aveson</td>
     <td><strong>Discord:</strong> @Aveson</td>
-    <td></td>
+    <td><strong>Spotify Activity</strong></td>
   </tr>
 </table>
 
