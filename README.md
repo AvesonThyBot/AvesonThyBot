@@ -51,17 +51,37 @@ I thrive on the challenge of mastering new programming languages and possess a p
 
 <!-- ![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg) -->
 
-<!-- Contacts -->
-
-<h1 align="center">Contacts</h1>
+<!-- Contacts & Extra Info-->
+<h1 align="center">Contacts & Extras</h1>
 <hr>
 
-| Contact Me                  | Social Media                |
-| ---------------------------- | --------------------------- |
-| <div style="text-align: center;"><a href="https://www.instagram.com/_aveson/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a></div> | **Instagram:** @_Aveson |
-| <div style="text-align: center;"><a href="https://discordapp.com/channels/@me" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a></div> | **Discord:** @Aveson |
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.instagram.com/_aveson/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://discordapp.com/channels/@me" target="_blank">  
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+      </a>
+    </td>
+    <td style="text-align: center;">
+        <!-- Spotify-->
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=94kssevudgf1dd5328wfgjmy2&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=ff6600&bar_color_cover=true" target="_blank">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=94kssevudgf1dd5328wfgjmy2&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=ff6600&bar_color_cover=true" alt="Spotify">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Instagram:</strong> @_Aveson</td>
+    <td><strong>Discord:</strong> @Aveson</td>
+    <td></td>
+  </tr>
+</table>
 
-<!-- ### Spotify Playing 🎧
-[![Spotify](https://novatorem-gjctt6jhr-avesonthybot.vercel.app/api/spotify)](https://open.spotify.com/user/94kssevudgf1dd5328wfgjmy2) -->
+
+
 
 
