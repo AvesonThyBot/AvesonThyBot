@@ -12,22 +12,34 @@ I thrive on the challenge of mastering new programming languages and possess a p
 <h1 align="center">Skills</h1>
 <hr>
 <div align="center">
-    <h3>Applications</h3>
-    <img src="https://skillicons.dev/icons?i=github,vscode,discord,blender,ps,unity,ae,replit" />
-    <br>
-    <p>I excel in various applications, from coding in Visual Studio Code to creating graphical interface in Adobe Photoshop.</p>
-    <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,lua,js,ts,java" />
-    <br>
-    <h3>Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <br>
-    <p>Experience with the Bootstrap framework for responsive web design.</p>
-    <h3>Web Development</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-    <br>
-    <p>Skilled in web development with HTML, CSS, and JavaScript.</p>
+    <table>
+        <tr>
+            <td>
+                <h3>Applications</h3>
+                <img src="https://skillicons.dev/icons?i=github,vscode,discord,blender,ps,unity,ae,replit" />
+                <p>I excel in various applications, from coding in Visual Studio Code to creating graphical interfaces in Adobe Photoshop.</p>
+            </td>
+            <td>
+                <h3>Programming Languages</h3>
+                <img src="https://skillicons.dev/icons?i=python,cs,cpp,lua,js,ts,java" />
+                <p>My proficiency in programming and coding experience varies across different languages, ranging from an intermediate level of expertise.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Frameworks</h3>
+                <img src="https://skillicons.dev/icons?i=bootstrap" />
+                <p>Experience with the Bootstrap framework for responsive web design.</p>
+            </td>
+            <td>
+                <h3>Web Development</h3>
+                <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+                <p>Skilled in web development with HTML, CSS, and JavaScript.</p>
+            </td>
+        </tr>
+    </table>
 </div>
+
 <!-- Statistics -->
 <hr>
 <h1 align="center">Statistics</h1>
