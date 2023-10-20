@@ -51,7 +51,7 @@ I thrive on the challenge of mastering new programming languages and possess a p
 <div align="center">
   <h2>🐍 Contribution Snake 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <hr>
