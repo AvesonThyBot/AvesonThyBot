@@ -48,9 +48,13 @@ I thrive on the challenge of mastering new programming languages and possess a p
 <img src="https://github-readme-stats.vercel.app/api?username=AvesonThyBot&theme=darcula&layout=donut&rank_icon=github" style="vertical-align: top;"> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvesonThyBot)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 <!-- Contribution snake -->
+<div align="center">
+  <h2>🐍 Contribution Snake 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
-<!-- ![snake gif](https://github.com/AvesonThyBot/AvesonThyBot/blob/output/github-contribution-grid-snake.svg) -->
-
+<hr>
 <!-- Contacts & Extra Info-->
 <h1 align="center">Contacts & Extras</h1>
 <hr>
