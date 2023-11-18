@@ -27,13 +27,13 @@ I thrive on the challenge of mastering new programming languages and possess a p
         </tr>
         <tr>
             <td>
-                <h3>Frameworks</h3>
-                <img src="https://skillicons.dev/icons?i=bootstrap" />
+                <h3>Frameworks / Library</h3>
+                <img src="https://skillicons.dev/icons?i=bootstrap,react" />
                 <p>Experience with the Bootstrap framework for responsive web design.</p>
             </td>
             <td>
                 <h3>Web Development</h3>
-                <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+                <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
                 <p>Skilled in web development with HTML, CSS, and JavaScript.</p>
             </td>
         </tr>
